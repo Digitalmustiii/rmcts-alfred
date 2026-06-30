@@ -6,12 +6,11 @@ Sanusi Mustapha Babansoro
 School of Computer Science and Engineering, UESTC, Chengdu, China
 
 ## Overview
-R-MCTS enables LLM-based multi-agent cooking-oriented embodied task 
-planners to improve iteratively from recorded failures at zero additional 
-live environment interaction cost.
+R-MCTS enables LLM-based multi-agent embodied task planners to improve iteratively from recorded failures at zero additional live environment interaction cost.
 
 ## Contents
-- `rmcts.tex` — Full paper (LaTeX source)
+- `RMCTS.tex` — Full paper (LaTeX source)
+- `RMCTS.pdf` — Full paper (PDF)
 - `Figure1_RMCTS_System_Overview.png` — System overview diagram
 - `Figure2_Retrospective_MCTS_Search.png` — Stage D retrospective search
 - `Figure3_Cooperative_Markov_Game.png` — Two-agent architecture
