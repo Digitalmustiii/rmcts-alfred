@@ -15,7 +15,7 @@ R-MCTS enables LLM-based multi-agent embodied task planners to improve iterative
 - `Figure2_Retrospective_MCTS_Search.png` — Stage D retrospective search
 - `Figure3_Cooperative_Markov_Game.png` — Two-agent architecture
 - `Figure4_Self_Improvement_Cycle.png` — Self-improvement cycle
-- `fig_dpo_loss.pdf` — DPO convergence curve (Experiment 5)
+- `fig_dpo_loss.png` — DPO convergence curve (Experiment 5)
 
 ## Preliminary Validation Results
 | Experiment | Result |
