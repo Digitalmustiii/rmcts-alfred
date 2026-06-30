@@ -11,7 +11,7 @@ planners to improve iteratively from recorded failures at zero additional
 live environment interaction cost.
 
 ## Contents
-- `rmcts_v4.tex` — Full paper (LaTeX source)
+- `rmcts.tex` — Full paper (LaTeX source)
 - `Figure1_RMCTS_System_Overview.png` — System overview diagram
 - `Figure2_Retrospective_MCTS_Search.png` — Stage D retrospective search
 - `Figure3_Cooperative_Markov_Game.png` — Two-agent architecture
